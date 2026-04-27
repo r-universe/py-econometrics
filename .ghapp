@@ -1,0 +1,10 @@
+{
+  "id": 127626688,
+  "created_at": "2026-04-27T21:21:14.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["within", "py-econometrics.r-universe.dev"]
+}
