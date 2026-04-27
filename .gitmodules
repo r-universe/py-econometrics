@@ -1,5 +1,9 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/py-econometrics/py-econometrics.r-universe.dev
 	branch = HEAD
+[submodule "withinr"]
+	path = withinr
+	url = https://github.com/py-econometrics/within
+	branch = r-bindings
+	subdir = withinr
